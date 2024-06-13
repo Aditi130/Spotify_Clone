@@ -6,7 +6,7 @@ Certainly! Here's a README file description tailored for a Spotify clone GitHub 
 ## Table of Contents
 
 - [About](#About)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies_Used)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
