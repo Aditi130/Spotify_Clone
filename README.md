@@ -5,8 +5,8 @@ Certainly! Here's a README file description tailored for a Spotify clone GitHub 
 
 ## Table of Contents
 
-- [About](#This a project which could play music on the list from any browser)
-- [Technologies Used](#HTML, CSS, JavaScript)
+- [About](#About)
+- [Technologies Used](#Technologies Used)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
